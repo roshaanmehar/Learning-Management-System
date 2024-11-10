@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-radius: 0 ;
+}
+
+.header{
+    background-color: white;
+}
+#header {
+  background-color: white;
+  box-shadow: 0 2px rgba(0, 0, 0, 0.1) !important;
+}
+.ant-layout-content css-dev-only-do-not-override-1okl62o{
+  background-color: #bababa !important;
+}
+/* layouts.css */
+
+/* Add bottom border to the header */
+.header::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #000; /* Change color as needed */
+}
+
+.ant-flex css-dev-only-do-not-override-1okl62o ant-flex-wrap-wrap ant-flex-gap-middle{
+  width: 100% !important;
+}
+
