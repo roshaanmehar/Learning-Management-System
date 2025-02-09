@@ -98,8 +98,10 @@ Ensure you have the following installed:
 - In orange you should see an option to install the time table as a pdf.
 
 #### This is the attendance page:
-<img src="https://github.com/roshaanmehar/Learning-Management-System/blob/main/lmsattendancepiechart.png" width="500">
+<div>
+   <img src="https://github.com/roshaanmehar/Learning-Management-System/blob/main/lmsattendancepiechart.png" width="500">
 <img src="https://github.com/roshaanmehar/Learning-Management-System/blob/main/lmsattendancepiechartdropdown.png" width="500">
+</div>
 - This page needs some polish. The Pie Chart library is exceptionally difficult for me to handle. Also, on the right is the same page, with a dropdown that lets you change the subject for which you want to view the attendance.
 
 #### This is the grades page:
